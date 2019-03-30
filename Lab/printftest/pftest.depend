@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1543029007 source:f:\hit\datastructure\lab\pftest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1547043727 source:f:\hit\datastructure\lab\printftest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

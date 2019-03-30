@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542188718 source:f:\hit\datastructure\lab\lab1_poly\main.c
+	<stdio.h>
+	<stdlib.h>
+
